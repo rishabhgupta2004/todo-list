@@ -30,7 +30,7 @@ To use this Todo app, follow these steps:
 
 ## Screenshots
 
-![Todo App Screenshot](/todo-list/Screenshot 2024-04-11 211903.png)
+![Todo App Screenshot](Screenshot 2024-04-11 211903.png)
 
 ## Demo
 
